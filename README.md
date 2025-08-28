@@ -1,4 +1,4 @@
--👋 Hi, I’m @Avilash02 
+-👋 Hi, I’m Avilash 
 
 -👀 I’m interested in full-stack development.
 
