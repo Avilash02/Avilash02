@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Avilash Achar
 
-<!--
-**Avilash02/Avilash02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student (Computer Applications)  
+💻 Aspiring Full-Stack Developer  
+ 
+---
 
-Here are some ideas to get you started:
+##  Profile Version
+**Version:** v1.1  
+**Last Updated:** January 2026  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+##  Currently Learning
+- Advanced Django (URLs, Views, Templates)
+- Database relationships & ORM
+- Backend logic & CRUD operations
+- Data Structures & Algorithms with a focus on problem-solving
+
+  
+
+---
+##  Languages & Tools  
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="42"/>
+</p>
+
+
+
+##  Goals (2026)
+- Strengthen MCA core computer science fundamentals
+- Master backend development with Django
+- Build 3+ real-world academic & practical projects
+- Learn CI/CD, GitHub Actions & deployment basics
+
+---
+
+##  Featured Projects
+- **Seminar Hall Management System** – Django-based academic project
+- More projects coming soon...
+
+---
+
+
+
+## 🤝 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Avilash02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/avilash-achar-34b197381/)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-black?logo=x)](https://twitter.com/Avilash_Achar)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/avilashachar004_/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:avilashachar@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-green?logo=phone)](tel:+917483583689)
+
+---
+Continuously learning, improving, and building step by step.
