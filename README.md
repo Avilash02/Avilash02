@@ -60,7 +60,7 @@
 
 ---
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avilash02&layout=compact&theme=github_dark&cache_seconds=86400" />
 
 ## 🤝 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Avilash02)
