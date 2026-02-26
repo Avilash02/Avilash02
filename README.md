@@ -60,8 +60,13 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avilash02&layout=compact&theme=github_dark&cache_seconds=86400" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avilash02&layout=compact&theme=tokyonight)
 
+##  GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avilash02&theme=dark)](https://git.io/streak-stats)
+ 
+ 
 ## 🤝 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Avilash02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/avilash-achar-34b197381/)
