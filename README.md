@@ -3,11 +3,7 @@
 🎓 MCA Student (Computer Applications)  
 💻 Aspiring Full-Stack Developer  
  
----
-
-##  Profile Version
-**Version:** v1.1  
-**Last Updated:** January 2026  
+ 
 
 ---
 
